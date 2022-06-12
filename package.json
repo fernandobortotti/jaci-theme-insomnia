@@ -1,30 +1,30 @@
 {
-  "name": "insomnia-plugin-theme-totty",
-  "version": "0.0.1",
-  "description": "Totti theme for Insomnia.",
+  "name": "insomnia-plugin-theme-jaci",
+  "version": "1.0",
+  "description": "jaci theme for Insomnia.",
   "main": "plugin.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/fernandobortotti"
   },
   "keywords": [
-    "Totti",
+    "jaci",
     "theme",
     "insomnia",
     "insomnia-plugin"
   ],
   "author": {
-    "name": "Fernando Bortotti",
+    "name": "Fernando bortotti",
     "url": "https://github.com/fernandobortotti"
   },
   "license": "MIT",
   "homepage": "",
   "insomnia": {
-    "name": "totti-theme",
-    "display-name": "Totty Theme",
-    "description": "Totty theme for Insomnia.",
+    "name": "jaci-theme",
+    "display-name": "jaci Theme",
+    "description": "jaci theme for Insomnia.",
     "publisher": {
-      "name": "Fernando Bortotti",
+      "name": "Fernando bortotti",
       "icon": ""
     }
   }

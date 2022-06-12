@@ -1,6 +1,6 @@
 module.exports = {
-  name: "totti",
-  displayName: "Totti",
+  name: "jaci",
+  displayName: "jaci",
   theme: {
     background: {
       default: "#160b17", // primary background color

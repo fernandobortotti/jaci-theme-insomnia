@@ -1,3 +1,3 @@
-const TottiTheme = require("./themes/totti");
+const jaciTheme = require("./themes/jaci");
 
-module.exports.themes = [TottiTheme];
+module.exports.themes = [jaciTheme];
