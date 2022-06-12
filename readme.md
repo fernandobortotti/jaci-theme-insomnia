@@ -26,4 +26,4 @@ Default
 ## 🖖 Tks
 
 <p align="center">Copyright &copy; 2022-present <a href="https://github.com/fernandobortotti" target="_blank">Bortotti Org</a>
-<p align="center"><a href="https://github.com/fernandobortotti/Bortotti-/blob/master/createThemes/insomnia-theme-totti/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=302d41&colorB=c9cbff"/></a></p>
+<p align="center"><a href="https://github.com/fernandobortotti/totti-theme-insomnia/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=302d41&colorB=c9cbff"/></a></p>
