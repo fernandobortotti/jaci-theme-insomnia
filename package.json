@@ -1,5 +1,5 @@
 {
-  "name": "insomnia-plugin-theme-jaci",
+  "name": "insomnia-plugin-theme-jaci-moon",
   "version": "0.0.2",
   "description": "jaci theme for Insomnia.",
   "main": "plugin.js",
@@ -21,8 +21,8 @@
   "homepage": "",
   "insomnia": {
     "name": "jaci-theme",
-    "display-name": "jaci Theme",
-    "description": "jaci theme for Insomnia.",
+    "display-name": "Jaci Theme",
+    "description": "Jaci theme for Insomnia.",
     "publisher": {
       "name": "Fernando bortotti",
       "icon": ""

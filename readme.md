@@ -19,9 +19,9 @@ Default
 ## Installation
 
 1. Navigate to **`Preferences > Plugins`**
-2. In the **`"Install plugin"`** field, enter **`insomnia-plugin-theme-jaci`**
+2. In the **`"Install plugin"`** field, enter **`insomnia-plugin-theme-jaci-moon`**
 3. Click **`"Install plugin"`**
-4. Navigate to **`Preferences > Themes`** and you should see **jaci** theme available.
+4. Navigate to **`Preferences > Themes`** and you should see **jaci moon** theme available.
 
 ## 🖖 Tks
 
