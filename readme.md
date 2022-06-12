@@ -19,7 +19,7 @@ Default
 ## Installation
 
 1. Navigate to **`Preferences > Plugins`**
-2. In the **`"Install plugin"`** field, enter **`insomnia-plugin-theme-totti`**
+2. In the **`"Install plugin"`** field, enter **`insomnia-plugin-theme-totty`**
 3. Click **`"Install plugin"`**
 4. Navigate to **`Preferences > Themes`** and you should see **Totti** theme available.
 
