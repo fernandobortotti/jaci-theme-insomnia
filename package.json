@@ -1,5 +1,5 @@
 {
-  "name": "insomnia-plugin-theme-totti",
+  "name": "insomnia-plugin-theme-totty",
   "version": "0.0.1",
   "description": "Totti theme for Insomnia.",
   "main": "plugin.js",
@@ -21,8 +21,8 @@
   "homepage": "",
   "insomnia": {
     "name": "totti-theme",
-    "display-name": "Totti Theme",
-    "description": "Totti theme for Insomnia.",
+    "display-name": "Totty Theme",
+    "description": "Totty theme for Insomnia.",
     "publisher": {
       "name": "Fernando Bortotti",
       "icon": ""
